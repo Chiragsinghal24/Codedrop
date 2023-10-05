@@ -73,7 +73,7 @@ const CDpreview = () => {
         {codeDrop.isPublic && (
           <button
             onClick={() => {
-              navigator.clipboard.writeText("https://jolly-platypus-317dd3.netlify.app/public/" + id);
+              navigator.clipboard.writeText("https://codedrop/public/" + id);
               alert("Public Link copied to your clipboard");
             }}
             className="btn-ghost rounded-ful btn-sm"
