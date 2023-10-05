@@ -26,10 +26,10 @@ share the code - publicly, Privately, Login Authentication
 
 # Learnings
 
-Appwrite
-DaisyUI
-TailwindCSS
-React-Router (Dynamic routing)
+Appwrite,
+DaisyUI,
+TailwindCSS,
+React-Router (Dynamic routing),
 ReactJS
 
 # Deploy on Netlify
